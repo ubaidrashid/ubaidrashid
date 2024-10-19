@@ -1,5 +1,5 @@
 
-![logo](https://github.com/ubaidrashid/ubaidrashid/blob/main/bannnnnn.png?raw=true)
+![logo](https://github.com/ubaidrashid/ubaidrashid/blob/main/bannnnnn2.png?raw=true)
  <h1 align="center">Hi 👋, I'm Ubaid Rashid</h1>
 <h3 align="center">A passionate MERN STACK developer from pakistan</h3>
 
