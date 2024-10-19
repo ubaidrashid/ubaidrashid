@@ -1,5 +1,5 @@
 
-![logo](https://github.com/ubaidrashid/ubaidrashid/blob/main/Blue%20And%20White%20Modern%20Minimal%20Business%20Channel%20Youtube%20Banner.png)
+![logo](https://github.com/ubaidrashid/ubaidrashid/blob/main/bannnnnn.png?raw=true)
  <h1 align="center">Hi 👋, I'm Ubaid Rashid</h1>
 <h3 align="center">A passionate MERN STACK developer from pakistan</h3>
 
