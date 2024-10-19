@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/ubaidrashid/ubaidrashid/blob/main/Blue%20And%20White%20Modern%20Minimal%20Business%20Channel%20Youtube%20Banner.png)
  <h1 align="center">Hi 👋, I'm Ubaid Rashid</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
+<h3 align="center">A passionate MERN STACK developer from pakistan</h3>
 
 <img align="right" width="300px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
 
